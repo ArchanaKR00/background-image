@@ -1,3 +1,3 @@
 # Assignment
-## BACKGROUND IMADE
+## BACKGROUND IMAGE
 ![img](background.jpeg)
